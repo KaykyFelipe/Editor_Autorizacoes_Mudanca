@@ -1,7 +1,5 @@
 
 
-Recentemente, concluí um projeto em Python voltado para a criação de um editor de documentos de autorização de mudança. Esse software é utilizado pela contabilidade/administradora de condomínios onde trabalho atualmente.
-
 O objetivo do programa é gerar um arquivo PDF com base em um modelo fornecido em formato Word. Ele substitui os campos necessários para tornar o documento exclusivo para um morador e um condomínio específico. Além disso, o programa considera que cada condomínio possui regras específicas para horários de mudança.
 
 O processo ocorre da seguinte forma:
